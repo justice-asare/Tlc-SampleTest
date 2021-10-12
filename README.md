@@ -1,2 +1,2 @@
 # Tlc-SampleTest
-Turntabl Tlc Java Assessment tutorial with Francis Deh
+Turntabl Tlc Java Assessment
